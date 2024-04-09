@@ -80,3 +80,5 @@ gem "sassc-rails"
 
 gem "font-awesome-sass", "~> 6.5.1"
 gem "stripe", "~> 10.14"
+
+gem "pagy", "~> 8.1"
